@@ -1,5 +1,6 @@
 # CreatingBIF CesSil
-Here is an explanation of how to create bif files with the ffmpeg tool in Windows
+Here is an explanation of how to create bif files with the ffmpeg tool in Windows.
+
 This is the guide that Roku gives:
 https://developer.roku.com/es-mx/docs/developer-program/media-playback/trick-mode/bif-file-creation.md
 Prerequisites for windows:
