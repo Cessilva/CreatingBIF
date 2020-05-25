@@ -44,3 +44,5 @@ You will need to write code/scripts to overcome these caveats.
 
 For bif files have to be uploaded to a server:
 http://www.instanttvchannel.com/roku/bif 
+
+Other sources:https://community.roku.com/t5/Roku-Developer-Program/what-is-the-exact-syntax-for-BIFTool/td-p/111994
