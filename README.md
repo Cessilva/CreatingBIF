@@ -47,3 +47,5 @@ For bif files have to be uploaded to a server:
 http://www.instanttvchannel.com/roku/bif 
 
 Other sources:https://community.roku.com/t5/Roku-Developer-Program/what-is-the-exact-syntax-for-BIFTool/td-p/111994
+If you want to use other source from a server:https://trac.ffmpeg.org/ticket/4126
+
